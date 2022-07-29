@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use App\Collections\Collection as CompositionCollection;
+
+class {{ class }} extends CompositionCollection
+{
+  //
+}

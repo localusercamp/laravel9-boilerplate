@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use App\QueryBuilders\QueryBuilder as CompositionQueryBuilder;
+
+class {{ class }} extends CompositionQueryBuilder
+{
+  //
+}
